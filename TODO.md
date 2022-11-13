@@ -1,0 +1,4 @@
+- [ ] <https://github.com/sindresorhus/awesome/blob/main/awesome.md>
+- [ ] Review at least 2 other open pull requests.
+- [ ] <https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md>
+- [ ] unicorn
